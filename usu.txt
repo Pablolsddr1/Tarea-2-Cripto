@@ -1,0 +1,16 @@
+Administrador
+Invitado
+Usuario
+Superusuario
+Root
+Admin
+Guest
+Support
+Manager
+Developer
+133
+gordond
+pablo
+1337
+gordonb
+smithy
